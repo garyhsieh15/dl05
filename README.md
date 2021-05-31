@@ -6,4 +6,4 @@ AOI image recognition
 https://github.com/garyhsieh15/dl05/blob/main/submit/
 
 # AOI images recognition report:
-
+https://github.com/garyhsieh15/dl05/blob/main/20210531_report_AOI_image_%20recognition.pdf
